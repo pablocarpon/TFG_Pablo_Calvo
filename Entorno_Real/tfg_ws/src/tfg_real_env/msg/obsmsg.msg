@@ -1,0 +1,16 @@
+float32 ball_x
+float32 ball_y
+float32 ball_v_x
+float32 ball_v_y
+float32 agent_x
+float32 agent_y
+float32 agent_theta_x
+float32 agent_theta_y
+float32 agent_v_x
+float32 agent_v_y
+float32 agent_v_theta
+float32 rival_x
+float32 rival_y
+float32 rival_v_x
+float32 rival_v_y
+float32 rival_v_theta

@@ -1,0 +1,8 @@
+prefix=/home/pablo/Escritorio/TFG/Código/Entrenamientos/Entorno_Real/tfg_ws/install
+
+Name: tfg_real_env
+Description: Description of tfg_real_env
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs rospy std_msgs message_runtime

@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Agent_Back"
+    },
+    {
+      "id": 1,
+      "name": "Agent_Front"
+    },
+    {
+      "id": 2,
+      "name": "Ball"
+    },
+    {
+      "id": 3,
+      "name": "Rival_Back"
+    },
+    {
+      "id": 4,
+      "name": "Rival_Front"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

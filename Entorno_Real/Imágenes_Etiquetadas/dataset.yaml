@@ -1,0 +1,13 @@
+# Ruta de los directorios que contienen las imágenes de entrenamiento y validación
+current_path: ../Imágenes_Etiquetadas
+train: images/train
+val: images/val
+
+# Asigno las clases que puede detectar el modelo
+nc: 5
+names:
+  - 'Agent_Back'
+  - 'Agent_Front'
+  - 'Ball'
+  - 'Rival_Back'
+  - 'Rival_Front'

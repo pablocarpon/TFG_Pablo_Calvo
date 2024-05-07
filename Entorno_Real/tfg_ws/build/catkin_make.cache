@@ -1,0 +1,2 @@
+tfg_real_env
+-DCATKIN_DEVEL_PREFIX=/home/pablo/Escritorio/TFG/Código/Entrenamientos/Entorno_Real/tfg_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pablo/Escritorio/TFG/Código/Entrenamientos/Entorno_Real/tfg_ws/install -G Unix Makefiles
